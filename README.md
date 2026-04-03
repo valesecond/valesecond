@@ -6,7 +6,12 @@
 
 <br/>
 
-<img width="520" src="coding.gif" alt="Coding pixel art" />
+<img width="100%" src="coding.gif" alt="Coding pixel art" />
+
+<br/><br/>
+
+<img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
+<img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
@@ -82,11 +87,6 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 ## Métricas
 
 <div align="center">
-
-<img height="230" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_radius=16" />
-<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&hide_border=false&border_radius=16&size_weight=0.5&count_weight=0.5" />
-
-<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&area=true&area_color=0063F0&line=58A6FF&point=FFFFFF" />
 
