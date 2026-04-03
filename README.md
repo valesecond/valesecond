@@ -8,9 +8,9 @@
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
 &nbsp;
-<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&hide_border=true&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
+<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5" />
 
 <br/>
 
