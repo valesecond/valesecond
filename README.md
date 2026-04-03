@@ -4,15 +4,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=0063F0&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer+%7C+Backend+First;IA+aplicada+a+sa%C3%BAde+e+pesquisa+real;Sistemas+em+produ%C3%A7%C3%A3o+para+servi%C3%A7os+p%C3%BAblicos;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Docker+%E2%80%A2+Cloud;Sempre+aprendendo+algo+novo)](https://readme-typing-svg.demolab.com/demo/)
 
-<br/>
-
 <img width="100%" src="coding.gif" alt="Coding pixel art" />
 
-<br/><br/>
+<br/>
 
-<img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5" />
+<table align="center">
+	<tr>
+		<td align="center" width="50%">
+			<img width="98%" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
+		</td>
+		<td align="center" width="50%">
+			<img width="98%" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5" />
+		</td>
+	</tr>
+</table>
 
 <br/>
 
@@ -100,7 +105,7 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 <div align="center">
 
-[![ArangoDB Certification](https://img.shields.io/badge/ArangoDB-Certified%20Professional-1F2937?style=for-the-badge&logo=arangodb&logoColor=DDE072)](https://arangodb.com/learn/certification/)
+[<img height="110" src="https://cdn.simpleicons.org/arangodb/DDE072" title="ArangoDB Certification" alt="ArangoDB Certification" />](https://arangodb.com/learn/certification/)
 
 </div>
 
