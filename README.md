@@ -1,230 +1,168 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Francisco%20Fernandes&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20IA%20na%20Sa%C3%BAde%20%E2%80%A2%20Sistemas%20em%20Produ%C3%A7%C3%A3o&descAlignY=62&descSize=16&animation=fadeIn" />
+
 <div align="center">
 
-# Francisco Fernandes do Vale Segundo
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=900&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend;IA+aplicada+%C3%A0+sa%C3%BAde+e+sistemas+em+produ%C3%A7%C3%A3o;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Cloud+%E2%80%A2+Docker;Projetos+reais+para+prefeituras+e+pesquisa+acad%C3%AAmica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+com+foco+em+Backend+%26+Sistemas+Reais;🧠+IA+aplicada+à+saúde+em+produção;🏥+Sistemas+para+UPAs+e+Prefeituras+do+RN;⚡+Node.js+•+React+•+Python+•+Docker+•+Cloud;🎓+Ciência+da+Computação+—+UERN" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/valesecond">
-  <img src="https://img.shields.io/github/followers/valesecond?style=for-the-badge&logo=github&label=Followers" />
-</a>
-<a href="https://github.com/valesecond?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Portf%C3%B3lio-1F6FEB?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/ffvsegundo">
-  <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ffvsegundo@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-ffvsegundo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffvsegundo)
+[![Gmail](https://img.shields.io/badge/Email-ffvsegundo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvsegundo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-valesecond-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valesecond)
+[![Followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&logo=github&label=Followers&color=1f6feb)](https://github.com/valesecond?tab=followers)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=valesecond&label=Visualiza%C3%A7%C3%B5es&color=1F6FEB&style=for-the-badge" alt="views" />
+![Profile Views](https://komarev.com/ghpvc/?username=valesecond&label=Visualizações+do+Perfil&color=58a6ff&style=for-the-badge)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Francisco**, estudante de **Ciência da Computação na UERN** e desenvolvedor Full Stack com foco em **backend robusto, infraestrutura e inteligência artificial aplicada à saúde**.
+
+- 🏥 Sistemas **em produção** em prefeituras e unidades de saúde do RN
+- 🧠 Pesquisa em **IA médica** — predição, segmentação e classificação
+- ☁️ Infraestrutura real com **Docker, GCP, Nginx e VPS**
+- 🔗 Integrador de mundos: **pesquisa acadêmica + impacto público real**
+- 📍 **Mossoró, Rio Grande do Norte — Brasil**
+- 🎯 **Foco atual:** Arquitetura backend, sistemas corporativos e IA na saúde
+
+<br clear="right"/>
+
+---
+
+## 🏆 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏥 **Sistema de Gestão UPA** | Recepção, triagem, atendimento médico e exames — sistema em produção | Node.js · React · PostgreSQL |
+| 📅 **Agendamento Público** | Em uso em prefeituras do RN — filas, automações e atendimento municipal | Node.js · React · Docker |
+| ☁️ **Microserviço Google Cloud** | Buckets por prefeitura, upload de documentos e imagens via API | GCP Storage · Node.js |
+| 💾 **Backup Automatizado** | Cron diário → Google Drive com limpeza automática de arquivos antigos | Python · Cron · GDrive API |
+| 🧠 **IA — Tumores Cerebrais** | Predição temporal de evolução tumoral com modelos de machine learning | Python · TensorFlow |
+| 🩻 **IA — Segmentação Tumoral** | Segmentação automática de regiões tumorais em imagens médicas | Python · OpenCV |
+| 🎗️ **IA — Mamografias** | Classificação inteligente de mamografias e priorização de casos | Python · Deep Learning |
+| 👶 **IA — Evolução Fetal** | Acompanhamento computacional fetal e detecção de anomalias | Python · ML |
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🧬 IA Aplicada à Saúde
 
-Sou estudante de **Ciência da Computação na UERN** e atuo no desenvolvimento de sistemas completos, com foco em **backend, APIs, banco de dados, infraestrutura e integrações**.
+```
+ ┌─────────────────────────────────────────────────────────────────────────┐
+ │  🧠 Predição de Tumores      →  Estimativa temporal via ML             │
+ │  🩻 Segmentação Tumoral      →  Regiões tumorais em exames médicos     │
+ │  🎗️ Classificação Mamografias →  Padrões + priorização inteligente     │
+ │  👶 Evolução Fetal           →  Análise computacional + anomalias      │
+ └─────────────────────────────────────────────────────────────────────────┘
+```
 
-Tenho experiência com:
-
-- **sistemas reais em produção** utilizados por prefeituras  
-- **inteligência artificial aplicada à saúde**  
-- **Node.js, React, Python, PostgreSQL, ArangoDB e MongoDB**  
-- **Docker, Nginx, VPS, Google Cloud e automações**  
-- desenvolvimento de soluções que unem **pesquisa acadêmica + aplicação prática**
-
----
-
-## 🏆 Destaques
-
-<table>
-  <tr>
-    <td>🏥</td>
-    <td><b>Sistema de Gestão para UPA</b> com módulos de recepção, triagem, atendimento médico e exames</td>
-  </tr>
-  <tr>
-    <td>📅</td>
-    <td><b>Sistema de Agendamento Público</b> em uso em prefeituras do RN</td>
-  </tr>
-  <tr>
-    <td>☁️</td>
-    <td><b>Microserviço de arquivos em Google Cloud Storage</b> com separação por prefeitura e integração com APIs</td>
-  </tr>
-  <tr>
-    <td>💾</td>
-    <td><b>Sistema de backup automatizado</b> com cron diário, envio para Google Drive e limpeza automática</td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td><b>Projetos de IA médica</b> para predição, segmentação e classificação de imagens</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td><b>Aplicações web e mobile</b> com foco em impacto real e integração de serviços</td>
-  </tr>
-</table>
-
----
-
-## 🧬 IA aplicada à saúde
-
-### 🧠 Predição de tumores cerebrais
-Projeto de iniciação científica voltado à **predição temporal de imagens médicas**, buscando estimar a evolução de tumores cerebrais com apoio de modelos de aprendizado de máquina.
-
-### 🩻 Segmentação de tumores
-Desenvolvimento de soluções para **segmentação automática de regiões tumorais** em exames médicos, auxiliando visualização e apoio à análise clínica.
-
-### 🎗️ Classificação de mamografias
-Projeto voltado à **classificação inteligente de mamografias**, com identificação de padrões e apoio à priorização de casos.
-
-### 👶 Evolução fetal e identificação de anomalias
-Pesquisa voltada ao **acompanhamento da evolução fetal**, com análise de exames e apoio computacional à identificação de anomalias.
-
----
-
-## 🏛️ Sistemas reais e infraestrutura
-
-### Sistema de Gestão para UPA
-- recepção  
-- triagem  
-- atendimento médico  
-- exames  
-- organização de fluxo de pacientes  
-
-### Sistema de Agendamento Público
-- estruturação de filas e etapas  
-- automação de processos  
-- apoio ao atendimento em serviços municipais  
-
-### Microserviço de Buckets no Google Cloud
-- integração com **Google Cloud Storage**  
-- separação de buckets/arquivos por prefeitura  
-- controle de uploads e organização de documentos  
-- suporte a sistemas com documentos e imagens  
-
-### Sistema de Backup Diário para Prefeituras
-- execução via **cron diariamente**  
-- envio automático para **Google Drive**  
-- organização por pastas  
-- limpeza automática de arquivos antigos  
-- apoio à continuidade e monitoramento operacional  
+> Todos os projetos unem **pesquisa acadêmica com impacto clínico real**, desenvolvidos em parceria com a UERN.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts" />
-</p>
-
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-### Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-  <img src="https://img.shields.io/badge/ArangoDB-graph%20%7C%20document-DDEBFF?style=for-the-badge&logo=arangodb&logoColor=white" />
-</p>
-
-### Cloud / Infra / DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,gcp" />
-</p>
-
-### Outras Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Microservi%C3%A7os-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VPS-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google%20Maps%20Platform-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
----
-
-## 📊 Métricas do GitHub
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&hide_border=true" />
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br/><br/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img height="170em" src="https://streak-stats.demolab.com?user=valesecond&theme=tokyonight&hide_border=true" />
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 
-<br/><br/>
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-graph%20%7C%20document-DDE8FF?style=for-the-badge&logo=arangodb&logoColor=white)
 
-<img src="https://github-profile-trophy.vercel.app/?username=valesecond&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&area=true" />
+### ☁️ Cloud, Infra & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-333333?style=for-the-badge&logo=serverfault&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservi%C3%A7os-1F6FEB?style=for-the-badge&logo=azurepipelines&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Formação
+## 📊 GitHub Stats
 
-- **Ciência da Computação — UERN**
-- **Técnico em Redes de Computadores — IMD/UFRN**
-- **Técnico em Qualidade — IFSULDEMINAS**
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-## 🎯 Foco atual
+<br/>
 
-- arquitetura backend  
-- sistemas corporativos e integrações  
-- IA aplicada à saúde  
-- infraestrutura e automação  
-- projetos com impacto público e científico  
+<img width="70%" src="https://streak-stats.demolab.com?user=valesecond&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
 
----
+<br/><br/>
 
-## 🌐 Contato
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=valesecond&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ffvsegundo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ffvsegundo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/valesecond">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&area=true&area_color=1f6feb&line=58a6ff&point=ffffff" />
+
+</div>
 
 ---
 
-## 🐍 Contribuições
+## 📚 Formação Acadêmica
 
-<p align="center">
+<div align="center">
+
+| 🎓 Curso | 🏛️ Instituição | 📌 Status |
+|---|---|---|
+| Ciência da Computação | UERN | Em andamento |
+| Técnico em Redes de Computadores | IMD / UFRN | Concluído |
+| Técnico em Qualidade | IFSULDEMINAS | Concluído |
+
+</div>
+
+---
+
+## 🐍 Mapa de Contribuições
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/valesecond/valesecond/output/snake.svg" alt="Snake animation" />
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### “Gosto de construir tecnologia que funcione de verdade, resolva problemas reais e tenha impacto prático.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&text=%22Gosto+de+construir+tecnologia+que+funcione+de+verdade%22&fontSize=16&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
 </div>
