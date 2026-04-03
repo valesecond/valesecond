@@ -29,9 +29,9 @@
 
 <div align="center">
 
-### Francisco Fernandes
+**Francisco Fernandes**
 
-**Full Stack Developer** com foco em backend robusto, produtos com impacto real e arquitetura orientada a escala.
+Full Stack Developer com foco em backend robusto, produtos com impacto real e arquitetura orientada a escala.
 
 ![Focus](https://img.shields.io/badge/Foco-Backend%20%26%20Arquitetura-0B1220?style=for-the-badge&labelColor=0063F0)
 ![Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20React%20%7C%20Python-0B1220?style=for-the-badge&labelColor=111827)
@@ -39,32 +39,10 @@
 
 </div>
 
-<table align="center">
-	<tr>
-		<td width="50%" valign="top">
-
-**Impacto prático**
-
-Sistemas em produção para cenários públicos e operacionais, com foco em estabilidade e resultado.
-
-**Interesses técnicos**
-
-IA aplicada à saúde, automação de processos e arquitetura de software.
-
-		</td>
-		<td width="50%" valign="top">
-
-**Qualidade de entrega**
-
-Código limpo, escalável e com manutenção previsível.
-
-**Direção atual**
-
-APIs, integrações, observabilidade e infraestrutura cloud com Docker e CI/CD.
-
-		</td>
-	</tr>
-</table>
+- Trabalho com sistemas em produção para cenários públicos e operacionais, com foco em estabilidade e resultado.
+- Tenho interesse forte em IA aplicada à saúde, automação de processos e arquitetura de software.
+- Priorizo qualidade de entrega: código limpo, escalável e com manutenção previsível.
+- Direção atual: APIs, integrações, observabilidade e infraestrutura cloud com Docker e CI/CD.
 
 ---
 
@@ -72,32 +50,12 @@ APIs, integrações, observabilidade e infraestrutura cloud com Docker e CI/CD.
 
 <div align="center">
 
-<table>
-	<tr>
-		<td width="50%" valign="top">
-
-### Sistemas em produção
-
-Fluxos reais para atendimento, agendamento e operação com foco em confiabilidade.
-
-### Backend
-
-APIs, autenticação, integrações e regras de negócio com arquitetura bem definida.
-
-		</td>
-		<td width="50%" valign="top">
-
-### IA na saúde
-
-Predição, segmentação e classificação de exames em projetos aplicados.
-
-### Infraestrutura
-
-Docker, Nginx, VPS, CI/CD e cloud para deploy contínuo e ambiente estável.
-
-		</td>
-	</tr>
-</table>
+| Área | Foco |
+|---|---|
+| Sistemas em produção | Fluxos reais para atendimento, agendamento e operação com foco em confiabilidade |
+| IA na saúde | Predição, segmentação e classificação de exames em projetos aplicados |
+| Backend | APIs, autenticação, integrações e regras de negócio com arquitetura bem definida |
+| Infraestrutura | Docker, Nginx, VPS, CI/CD e cloud para deploy contínuo e ambiente estável |
 
 </div>
 
