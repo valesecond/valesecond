@@ -1,154 +1,178 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Eu sou Francisco Fernandes do Vale Segundo
+<h1 align="center">Francisco Fernandes do Vale Segundo</h1>
+<h3 align="center">Backend • Full Stack • IA aplicada à saúde • Sistemas em produção</h3>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Transformando+Ideias+em+Realidade+Digital+%F0%9F%92%BB;Construindo+o+Futuro+com+Clean+Code+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-<img align="right" alt="Developer" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-🎯 **Desenvolvedor Full Stack** de 23 anos, apaixonado por criar experiências digitais excepcionais. Especialista em arquiteturas modernas e desenvolvimento de aplicações escaláveis que impactam milhares de usuários.
-
-```typescript
-
-const francisco = {
-  name: "Francisco Fernandes do Vale Segundo",
-  age: 23,
-  role: "Full Stack Developer",
-  location: "Mossoró, RN - Brasil 🇧🇷",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C#", "R"],
-  specialties: [
-    "React & Next.js Ecosystem",
-    "Django & DRF APIs", 
-    "Mobile Development",
-    "Cloud Architecture",
-    "Machine Learning",
-    "Game Development"
-  ],
-  currentMission: "Criando soluções que conectam pessoas e tecnologia",
-  philosophy: "Clean Code + User Experience = Magic ✨"
-};
-```
-
-### 🎯 Foco Atual
-- 🔭 **Desenvolvendo:** Aplicações web modernas com **React** e **TypeScript**
-- 🌱 **Evoluindo em:** **Machine Learning**, **Cloud Computing** e **DevOps**
-- 🎮 **Explorando:** Game Development com **Godot** e **GDScript**
-- 💡 **Dominando:** **Clean Architecture**, **Design Patterns** e **TDD**
-- 🚀 **Objetivo:** Contribuir para projetos open source impactantes
-- 📫 **Contato:** **twdsegundovale@gmail.com**
+<p align="center">
+  <a href="https://github.com/valesecond">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend;Sistemas+reais+em+produ%C3%A7%C3%A3o+para+prefeituras;Intelig%C3%AAncia+Artificial+aplicada+%C3%A0+sa%C3%BAde;Node.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Cloud+%E2%80%A2+Docker" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 💻 Arsenal Tecnológico
+## 👨‍💻 Sobre mim
 
-<div align="center">
+Sou estudante de **Ciência da Computação na UERN** e atuo no desenvolvimento de sistemas web, APIs, integrações, infraestrutura e aplicações com **inteligência artificial aplicada à saúde**.
 
-### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,figma,reactnative" />
+Tenho experiência com projetos **acadêmicos** e também com **sistemas reais em produção**, incluindo soluções utilizadas por **prefeituras**, com foco em saúde pública, agendamentos, automações, infraestrutura e organização de dados.
 
-### ⚙️ Backend & Databases  
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,cs,dotnet,postgresql,mongodb,redis" />
+Hoje meu foco principal está em:
 
-### 🔧 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux,postman,nginx,jenkins,kubernetes" />
-
-### 🎯 Outras Especialidades
-<img src="https://skillicons.dev/icons?i=r,godot,unity,tensorflow,pytorch,opencv,elasticsearch,rabbitmq,graphql,prisma" />
-
-</div>
+- desenvolvimento **backend** com Node.js e Python  
+- construção de **APIs** e integrações entre sistemas  
+- banco de dados **SQL e NoSQL**  
+- **Docker, VPS, Nginx e Google Cloud**  
+- projetos de **IA médica**, visão computacional e análise de imagens  
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Destaques
 
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Francisco's GitHub Stats" />
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=valesecond&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=valesecond&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
+- 🏥 Desenvolvimento de **sistema de gestão para UPA**, com módulos de recepção, triagem, atendimento médico e exames  
+- 📅 Criação de **sistema de agendamento público** para serviços municipais  
+- ☁️ Desenvolvimento de **microserviço para gerenciamento de arquivos em buckets no Google Cloud**, com separação por prefeitura e integração com APIs  
+- 💾 Construção de **sistema de backup automatizado para prefeituras**, com execução diária via cron, envio ao Google Drive, organização de arquivos e limpeza automática  
+- 🧠 Projetos de **inteligência artificial para análise de imagens médicas**  
+- 📱 Experiência com aplicações **web e mobile**, integrações e deploy em produção  
 
 ---
 
-## 📈 Contribuição & Atividade
+## 🧬 Projetos de IA aplicada à saúde
 
-<div align="center">
+### 1. Predição de imagens de tumores cerebrais
+Projeto de iniciação científica voltado à **predição temporal de imagens médicas**, utilizando modelos de aprendizado de máquina para estimar a evolução de tumores cerebrais a partir de exames anteriores.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=valesecond&custom_title=Francisco's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00D9FF&line=1DD760&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true)
+### 2. Segmentação de tumores em imagens médicas
+Desenvolvimento de abordagem para **segmentação automática de regiões tumorais**, apoiando a análise clínica e a visualização de áreas afetadas.
 
-</div>
+### 3. Classificação de mamografias com IA
+Projeto voltado à **classificação de exames mamográficos**, buscando identificar padrões relevantes, risco clínico e apoio à priorização de atendimento.
 
-<div align="center">
-
-### 🏆 Conquistas GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=valesecond&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
-</div>
+### 4. Acompanhamento da evolução fetal
+Pesquisa com foco em **análise de exames para acompanhamento de fetos** e identificação de possíveis anomalias com apoio de inteligência artificial.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🏛️ Sistemas e soluções em produção
 
-<div align="center">
+### Sistema de Gestão para UPA
+Aplicação com módulos integrados para:
+- recepção
+- triagem
+- atendimento médico
+- exames
+- organização do fluxo de pacientes
 
-### 💬 **Vamos Conversar sobre Tecnologia!**
+### Sistema de Agendamento Público
+Solução utilizada para:
+- organizar atendimentos e serviços
+- estruturar filas e etapas de atendimento
+- automatizar fluxos administrativos
 
-<a href="https://www.linkedin.com/in/francisco-fernandes-do-vale-segundo-265009199/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:twdsegundovale@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-</a>
-<a href="https://www.instagram.com/segundovale_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-<a href="https://www.twitch.tv/segundovale" target="_blank">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF" alt="Twitch"/>
-</a>
+### Microserviço de armazenamento em nuvem
+Serviço responsável por:
+- integração com **Google Cloud Storage**
+- separação de arquivos por prefeitura
+- organização e controle de uploads
+- apoio a sistemas com documentos e imagens
 
-<br><br>
-
-### 📊 **Estatísticas de Perfil**
-
-<img src="https://komarev.com/ghpvc/?username=valesecond&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/valesecond?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=STARS" alt="GitHub stars" />
-
-</div>
+### Sistema de backup automatizado
+Solução criada para:
+- executar **backups diários**
+- enviar arquivos automaticamente para o **Google Drive**
+- manter organização por pastas
+- realizar **limpeza automática**
+- apoiar monitoramento e continuidade operacional
 
 ---
 
-<div align="center">
+## 🛠️ Tecnologias
 
-### 💭 *"O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."*
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java" />
+</p>
 
-**— Robert C. Martin (Uncle Bob)**
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts" />
+</p>
 
-<br>
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Vamos+Codar+Juntos!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+### Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-### 🐍 **Contribution Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg">
-</picture>
+<p>
+  <img src="https://img.shields.io/badge/ArangoDB-graph%20%7C%20document-1F6FEB?style=for-the-badge" />
+</p>
 
-⭐ **Gostou do meu trabalho? Considere dar uma estrela nos repositórios!** ⭐
+### DevOps / Infra / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,gcp" />
+</p>
 
-</div>
+---
+
+## 📚 Formação
+
+- **Ciência da Computação — UERN**  
+- **Técnico em Redes de Computadores — IMD/UFRN**  
+- **Técnico em Qualidade — IFSULDEMINAS**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=valesecond&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Foco atual
+
+- Evoluindo em **arquitetura backend**
+- Construindo soluções com **Node.js, React e Python**
+- Explorando **IA aplicada à saúde**
+- Fortalecendo práticas de **infraestrutura, automação e cloud**
+- Estruturando projetos mais robustos para portfólio técnico e científico
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ffvsegundo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ffvsegundo@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/valesecond" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Filosofia
+
+> Gosto de construir tecnologia que não fique só bonita no código,  
+> mas que funcione de verdade, resolva problemas reais  
+> e tenha impacto prático para quem usa.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=valesecond&label=Visualiza%C3%A7%C3%B5es&color=1F6FEB&style=flat" alt="profile views" />
+</p>
