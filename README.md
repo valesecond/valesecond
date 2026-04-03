@@ -11,14 +11,10 @@
 <br/><br/>
 
 <img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="230" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5" />
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffvsegundo)
-[![Email](https://img.shields.io/badge/Email-ffvsegundo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvsegundo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-valesecond-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valesecond)
-[![Profile Views](https://komarev.com/ghpvc/?username=valesecond&label=Visualizações+do+perfil&color=0063F0&style=for-the-badge)](https://github.com/valesecond)
 
 </div>
 
@@ -60,13 +56,14 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 ### Back-end
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,laravel,ruby,rails&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark" />
 </div>
 
 ### Banco de dados
 <div align="left">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" />
 <img height="48" src="https://cdn.simpleicons.org/mariadb/003545" title="MariaDB" />
+<img height="48" src="https://cdn.simpleicons.org/arangodb/DDE072" title="ArangoDB" />
 </div>
 
 ### DevOps e cloud
@@ -94,7 +91,16 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 ![Followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&label=Followers&color=0063F0)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111827&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
-![Profile Views](https://komarev.com/ghpvc/?username=valesecond&label=Visualizações+do+perfil&color=0063F0&style=for-the-badge)
+
+</div>
+
+---
+
+## Certificação
+
+<div align="center">
+
+[![ArangoDB Certification](https://img.shields.io/badge/ArangoDB-Certified%20Professional-1F2937?style=for-the-badge&logo=arangodb&logoColor=DDE072)](https://arangodb.com/learn/certification/)
 
 </div>
 
@@ -109,19 +115,6 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 | Ciência da Computação | UERN | Em andamento |
 | Técnico em Redes de Computadores | IMD / UFRN | Concluído |
 | Técnico em Qualidade | IFSULDEMINAS | Concluído |
-
-</div>
-
----
-
-## Conexão
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584997041665)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ffvsegundo@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#davigledson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffvsegundo)
 
 </div>
 
