@@ -27,13 +27,44 @@
 
 ## Sobre mim
 
-Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e desenvolvedor Full Stack com foco em **backend sólido, experiências modernas no frontend e soluções com impacto real**.
+<div align="center">
 
-- Trabalho com sistemas que já foram para produção em contextos públicos e operacionais.
-- Tenho interesse forte em **IA aplicada à saúde**, automação e arquitetura de software.
-- Gosto de entregar código limpo, escalável e fácil de manter.
-- Minha stack gira em torno de **Node.js, React, Python, Docker e cloud**.
-- Baseado em **Mossoró, Rio Grande do Norte, Brasil**.
+### Francisco Fernandes
+
+**Full Stack Developer** com foco em backend robusto, produtos com impacto real e arquitetura orientada a escala.
+
+![Focus](https://img.shields.io/badge/Foco-Backend%20%26%20Arquitetura-0B1220?style=for-the-badge&labelColor=0063F0)
+![Stack](https://img.shields.io/badge/Stack-Node.js%20%7C%20React%20%7C%20Python-0B1220?style=for-the-badge&labelColor=111827)
+![Location](https://img.shields.io/badge/Base-Mossor%C3%B3%20RN-0B1220?style=for-the-badge&labelColor=1F2937)
+
+</div>
+
+<table align="center">
+	<tr>
+		<td width="50%" valign="top">
+
+**Impacto prático**
+
+Sistemas em produção para cenários públicos e operacionais, com foco em estabilidade e resultado.
+
+**Interesses técnicos**
+
+IA aplicada à saúde, automação de processos e arquitetura de software.
+
+		</td>
+		<td width="50%" valign="top">
+
+**Qualidade de entrega**
+
+Código limpo, escalável e com manutenção previsível.
+
+**Direção atual**
+
+APIs, integrações, observabilidade e infraestrutura cloud com Docker e CI/CD.
+
+		</td>
+	</tr>
+</table>
 
 ---
 
@@ -41,12 +72,32 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 <div align="center">
 
-| Área | Foco |
-|---|---|
-| Sistemas em produção | Fluxos reais para atendimento, agendamento e operação |
-| IA na saúde | Predição, segmentação e classificação de exames |
-| Backend | APIs, autenticação, integrações e regras de negócio |
-| Infraestrutura | Docker, Nginx, VPS, CI/CD e cloud |
+<table>
+	<tr>
+		<td width="50%" valign="top">
+
+### Sistemas em produção
+
+Fluxos reais para atendimento, agendamento e operação com foco em confiabilidade.
+
+### Backend
+
+APIs, autenticação, integrações e regras de negócio com arquitetura bem definida.
+
+		</td>
+		<td width="50%" valign="top">
+
+### IA na saúde
+
+Predição, segmentação e classificação de exames em projetos aplicados.
+
+### Infraestrutura
+
+Docker, Nginx, VPS, CI/CD e cloud para deploy contínuo e ambiente estável.
+
+		</td>
+	</tr>
+</table>
 
 </div>
 
@@ -96,30 +147,6 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 ![Followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&label=Followers&color=0063F0)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111827&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
-
-</div>
-
----
-
-## Certificação
-
-<div align="center">
-
-[<img height="110" src="https://cdn.simpleicons.org/arangodb/DDE072" title="ArangoDB Certification" alt="ArangoDB Certification" />](https://arangodb.com/learn/certification/)
-
-</div>
-
----
-
-## Formação
-
-<div align="center">
-
-| Curso | Instituição | Status |
-|---|---|---|
-| Ciência da Computação | UERN | Em andamento |
-| Técnico em Redes de Computadores | IMD / UFRN | Concluído |
-| Técnico em Qualidade | IFSULDEMINAS | Concluído |
 
 </div>
 
