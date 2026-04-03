@@ -6,7 +6,7 @@
 
 <br/>
 
-<img width="460" src="assets/pixel-art-banner.svg" alt="Pixel art banner" />
+<img width="520" src="coding.gif" alt="Coding pixel art" />
 
 <br/>
 
@@ -83,15 +83,18 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 <div align="center">
 
-![Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0063F0&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
-![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111827&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
-![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0EA5E9&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
-![Profile Repo Stars](https://img.shields.io/github/stars/valesecond/valesecond?style=for-the-badge&label=Profile%20Repo%20Stars&color=22C55E)
-![Profile Views](https://komarev.com/ghpvc/?username=valesecond&label=Visualizações+do+perfil&color=0063F0&style=for-the-badge)
+<img height="230" src="https://github-readme-stats.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&border_radius=16" />
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=5&hide=html,css&hide_border=false&border_radius=16&size_weight=0.5&count_weight=0.5" />
 
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&area=true&area_color=0063F0&line=58A6FF&point=FFFFFF" />
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/valesecond?style=for-the-badge&label=Followers&color=0063F0)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111827&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvalesecond)
+![Profile Views](https://komarev.com/ghpvc/?username=valesecond&label=Visualizações+do+perfil&color=0063F0&style=for-the-badge)
 
 </div>
 
@@ -128,9 +131,11 @@ Sou **Francisco Fernandes**, estudante de **Ciência da Computação na UERN** e
 
 <div align="center">
 
-<img width="100%" src="assets/snake-fallback.svg" alt="Snake fallback" />
-
-<p>Quando o workflow publicar a branch <code>output</code>, a versão animada substitui este banner no GitHub.</p>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake-dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg" />
+	<img alt="snake animation" src="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
