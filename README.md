@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0B1220,100:0063F0&height=240&section=header&text=Francisco%20Fernandes&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Research%20Software%20Engineer%20%C2%B7%20AI%20for%20Healthcare%20%C2%B7%20Production%20Systems&descSize=14&descAlignY=56&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0B1220,100:0063F0&height=220&section=header&text=Francisco%20Fernandes&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Research%20Software%20Engineer%20%C2%B7%20AI%20for%20Healthcare%20%C2%B7%20Production%20Systems&descSize=14&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
@@ -21,28 +21,14 @@
 <img src="https://img.shields.io/badge/%F0%9F%8F%9B_Public_Systems-0B1220?style=for-the-badge&labelColor=0B1220" alt="Public Systems"/>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Geo_Systems-0B1220?style=for-the-badge&labelColor=111827" alt="Geo Systems"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
-<br/>
-
-## GitHub Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&border_radius=12&hide_border=true" alt="Top Languages"/>
+<img height="260" src="https://github-readme-stats-eta-seven-77.vercel.app/api?username=valesecond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12&title_color=58A6FF&icon_color=0063F0&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+<img height="220" src="https://github-readme-stats-eta-seven-77.vercel.app/api/top-langs/?username=valesecond&layout=donut&theme=tokyonight&langs_count=6&hide=html,css&border_radius=12&size_weight=0.5&count_weight=0.5&title_color=58A6FF&icon_color=0063F0&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=valesecond&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=valesecond&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=valesecond&theme=tokyonight&border_radius=12&currStreakLabel=58A6FF&sideLabels=ffffff&dates=aaaaaa&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -58,12 +44,11 @@
 
 ### Research Software Engineer
 
-| | |
-|:---:|:---:|
-| **🔬 Research** | **⚙️ Engineering** |
+| 🔬 Research | ⚙️ Engineering |
+|:-----------:|:--------------:|
 | IA aplicada à Saúde | Sistemas em produção |
 | Deep Learning · MRI · Vision | Backend · APIs · Cloud |
-| Modelos preditivos e segmentação | Microsserviços · Linux · Docker |
+| Predição · Segmentação · Classificação | Microsserviços · Linux · Docker |
 
 <br/>
 
@@ -201,8 +186,8 @@
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| 🏛<br/>**Órgãos Públicos**<br/><sub>Sistemas em produção</sub> | 🩺<br/>**IA na Saúde**<br/><sub>Imagens médicas</sub> | 🧠<br/>**Pesquisa**<br/><sub>Produção científica</sub> | ☁<br/>**Cloud**<br/><sub>Infraestrutura</sub> |
-| ⚙<br/>**Microsserviços**<br/><sub>Arquitetura distribuída</sub> | 📍<br/>**Geo Systems**<br/><sub>Mapas & dados</sub> | 🔒<br/>**Auth**<br/><sub>JWT · Multi-tenant</sub> | 🚀<br/>**Deploy**<br/><sub>Docker · Linux</sub> |
+| 🏛 **Órgãos Públicos** | 🩺 **IA na Saúde** | 🧠 **Pesquisa** | ☁ **Cloud** |
+| ⚙ **Microsserviços** | 📍 **Geo Systems** | 🔒 **Auth** | 🚀 **Deploy** |
 
 </div>
 
@@ -344,17 +329,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=valesecond&theme=tokyo-night&hide_border=true&area=true&area_color=0063F0&line=58A6FF&point=FFFFFF&height=300" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valesecond&theme=tokyonight" alt="Summary Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valesecond&theme=tokyonight" alt="Repos per Language"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valesecond&theme=tokyonight" alt="Commit Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valesecond&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=valesecond&bg_color=0d1117&color=58A6FF&line=ffffff&point=0063F0&area=true&hide_border=true)
 
 </div>
 
@@ -366,11 +341,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/valesecond/valesecond/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -388,20 +359,12 @@
 
 <br/><br/>
 
-<a href="mailto:ffvsegundo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ffvsegundo%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0B1220" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ffvsegundo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ffvsegundo-0B1220?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0B1220" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/valesecond" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-valesecond-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0B1220" alt="GitHub"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Email-ffvsegundo%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0B1220)](mailto:ffvsegundo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffvsegundo-0B1220?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0B1220)](https://www.linkedin.com/in/ffvsegundo)
+[![GitHub](https://img.shields.io/badge/GitHub-valesecond-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0B1220)](https://github.com/valesecond)
 
 </div>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0063F0,40:0B1220,100:050816&height=150&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0063F0,40:0B1220,100:050816&height=140&section=footer&animation=fadeIn" />
